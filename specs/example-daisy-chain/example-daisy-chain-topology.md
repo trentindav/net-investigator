@@ -1,4 +1,4 @@
-# Topology to test 6Wind use case
+# Example Topology to test an Ethernet Daisy Chain
 
 ## Operational Notes for Audits
 
